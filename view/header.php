@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="es">
 	<head>
-		<title>Anexsoft</title>
+		<title>MVC</title>
         
         <meta charset="utf-8" />
         
